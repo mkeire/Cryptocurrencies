@@ -1,2 +1,6 @@
 .ipynb_checkpoints
-Resources/
+Resources/iris.csv
+Resources/new_iris_data.csv
+Resources/shopping_data.csv
+Resources/shopping_data_cleaned.csv
+Resources/crypto_data.csv
