@@ -12,6 +12,6 @@ The first step was to clean the data. I was required to remove all cryptocurrenc
 
 The scatter plot of TotalCoinsMined and TotalCoinSupply showed a trend of increasing supply as more coins were minted. BitTorrent had the largest total of coins mined and the largest supply. Fiii had the smallest mined total and the smallest supply. There were three notable outliers: TurtleCoin, MoonCoin, and EliteCoin, having relatively large coin supplies, but few of the coins had been mined compared to the rest of the data.
 
-![TotalCoinSupply versus TotalCoinsMined Scatter Plot](https://github.com/mkeire/Cryptocurrencies/blob/master/Resources/bokeh_plot.png
+![TotalCoinSupply versus TotalCoinsMined Scatter Plot](https://github.com/mkeire/Cryptocurrencies/blob/master/Resources/bokeh_plot.png)
 
-![Principal Componened, class, TotalCoinsMined, and TotalCoinSupply Scatter Plot](https://github.com/mkeire/Cryptocurrencies/blob/master/Resources/bokeh_plot2.png
+![Principal Componened, class, TotalCoinsMined, and TotalCoinSupply Scatter Plot](https://github.com/mkeire/Cryptocurrencies/blob/master/Resources/bokeh_plot2.png)
